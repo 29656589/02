@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/fxy-invoice-admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fxy-invoice-biz-uniapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fxy-invoice-biz-vue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fxy-invoice-server-java" vcs="Git" />
+  </component>
+</project>

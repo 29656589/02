@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-rpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-rpa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-sms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-support/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-support/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-wx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/fjhtxx-wx/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fxy-invoice-server-java/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fjhtxx-sms" />
+        <module name="fjhtxx-support" />
+        <module name="fjhtxx-api" />
+        <module name="fjhtxx-common" />
+        <module name="fjhtxx-wx" />
+        <module name="fjhtxx-system" />
+        <module name="fjhtxx-quartz" />
+        <module name="fjhtxx-generator" />
+        <module name="fjhtxx-admin" />
+        <module name="fjhtxx-biz" />
+        <module name="fjhtxx-rpa" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
